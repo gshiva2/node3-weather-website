@@ -15,7 +15,8 @@ const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
 const messageTwo = document.querySelector('#message-2')
 
-
+/*Fdtdrw
+aded comennts */
 hello.addEventListener('submit',(e) => {
     e.preventDefault()
 
